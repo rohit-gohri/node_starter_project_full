@@ -55,7 +55,7 @@
     "objection": "^1.2.2",
     "pg": "^7.4.3",
     "sm-utils": "^2.15.3",
-    "ua-parser-js": "^0.7.18",
+    "ua-parser-js": "^0.7.24",
     "urijs": "^1.19.1",
     "vue": "^2.5.16",
     "vue-router": "^3.0.1",
